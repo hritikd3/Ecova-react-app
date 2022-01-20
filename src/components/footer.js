@@ -8,9 +8,7 @@ export default function Footer() {
           <div className="box">
             <h3>about us</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Accusamus, neque nemo dolorem eius id laudantium maxime dicta
-              impedit fuga rem?
+            Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. —Henry David Thoreau
             </p>
           </div>
           <div className="box">
@@ -30,11 +28,11 @@ export default function Footer() {
             </p>
             <p>
               {" "}
-              <i className="fa fa-envelope" /> example@gmail.com{" "}
+              <i className="fa fa-envelope" />ecovahelp@gmail.com{" "}
             </p>
             <p>
               {" "}
-              <i className="fa fa-map-marker-alt" /> mumbai, indai - 400104{" "}
+              <i className="fa fa-map-marker-alt" /> mumbai, india - 400104{" "}
             </p>
           </div>
           <div className="box">
@@ -48,7 +46,7 @@ export default function Footer() {
         </div>
         <h1 className="credit">
           {" "}
-          created by <a href="#"> mr. web designer </a> | all rights reserved!{" "}
+          created by <a href="#"> Hritik Singh </a> | all rights reserved!{" "}
         </h1>
       </div>
     </>

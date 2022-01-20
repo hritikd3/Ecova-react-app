@@ -116,7 +116,7 @@ header .navbar a:hover {
   align-items: center;
   justify-content: space-between;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.9), transparent),
-    url("images/home-bg.jpg") no-repeat;
+    url(../images/home-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -610,7 +610,7 @@ header .navbar a:hover {
     top: 100%;
     left: 0;
     width: 100%;
-    background: rgb(238, 18, 18);
+    background: rgb(92, 88, 88);
     border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
     padding: 2rem;
     transform-origin: top;
@@ -632,9 +632,9 @@ header .navbar a:hover {
     border-left: 0.2rem solid var(--green);
   }
 
-  .home {
+  /* .home {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url("./images/home-bg.jpg") no-repeat;
+      url(../images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: right;
   }
@@ -642,11 +642,7 @@ header .navbar a:hover {
   .home .content {
     text-align: center;
     width: auto;
-  }
-
-  .home .content h3 {
-    font-size: 4rem;
-  }
+  } */
 
   section {
     padding: 0 3%;

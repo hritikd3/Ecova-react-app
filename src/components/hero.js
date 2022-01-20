@@ -7,9 +7,8 @@ export default function Hero() {
         <div className="content">
           <h3>save the planet</h3>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere
-            quidem quae debitis reiciendis, nihil error? Doloribus dicta aliquam
-            quidem excepturi.
+            We don’t inherit the earth from our ancestors, we borrow it from our
+            children. —Native American proverb
           </p>
           <a href="#" className="btn">
             get started
