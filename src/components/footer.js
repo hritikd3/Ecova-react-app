@@ -26,15 +26,15 @@ export default function Footer() {
             <h3>contact us</h3>
             <p>
               {" "}
-              <i className="fas fa-phone" /> +123-456-7890.{" "}
+              <i className="fa fa-phone" /> +123-456-7890.{" "}
             </p>
             <p>
               {" "}
-              <i className="fas fa-envelope" /> example@gmail.com{" "}
+              <i className="fa fa-envelope" /> example@gmail.com{" "}
             </p>
             <p>
               {" "}
-              <i className="fas fa-map-marker-alt" /> mumbai, indai - 400104{" "}
+              <i className="fa fa-map-marker-alt" /> mumbai, indai - 400104{" "}
             </p>
           </div>
           <div className="box">

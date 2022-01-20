@@ -12,10 +12,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />{" "}
               </div>
             </div>
           </div>
@@ -25,10 +25,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -38,10 +38,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -51,10 +51,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -64,10 +64,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -77,10 +77,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -90,10 +90,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>
@@ -103,10 +103,10 @@ export default function Team() {
               <h3>john deo</h3>
               <p>web designer</p>
               <div className="share">
-                <a href="#" className="fab fa-facebook-f" />
-                <a href="#" className="fab fa-twitter" />
-                <a href="#" className="fab fa-instagram" />
-                <a href="#" className="fab fa-linkedin" />
+                <a href="#" className="fa fa-facebook-f" />
+                <a href="#" className="fa fa-twitter" />
+                <a href="#" className="fa fa-instagram" />
+                <a href="#" className="fa fa-linkedin" />
               </div>
             </div>
           </div>

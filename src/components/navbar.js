@@ -9,7 +9,7 @@ export default function Navbar() {
           <span className="fa fa-globe" />
           va
         </a>
-        <div id="menu" className="fas fa-bars" />
+        <div id="menu" className="fa fa-bars" />
         <nav className="navbar">
           <a href="#home">home</a>
           <a href="#project">project</a>

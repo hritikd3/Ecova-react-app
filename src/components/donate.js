@@ -6,22 +6,22 @@ export default function Donate() {
       <section className="donate" id="donate">
         <div className="box-container">
           <div className="box">
-            <i className="fas fa-users" />
+            <i className="fa fa-users" />
             <h3>1000+</h3>
             <p>volunteers involved</p>
           </div>
           <div className="box">
-            <i className="fas fa-tree" />
+            <i className="fa fa-tree" />
             <h3>4500+</h3>
             <p>trees planted</p>
           </div>
           <div className="box">
-            <i className="fas fa-paw" />
+            <i className="fa fa-paw" />
             <h3>420+</h3>
             <p>animals saved</p>
           </div>
           <div className="box">
-            <i className="fas fa-solar-panel" />
+            <i className="fa fa-solar-panel" />
             <h3>730+</h3>
             <p>solar panels</p>
           </div>
